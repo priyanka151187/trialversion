@@ -1,1 +1,1 @@
-# trialversion
+# news_app
